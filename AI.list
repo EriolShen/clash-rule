@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,ai.com
 # Add stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
+# Add Coze
+DOMAIN-KEYWORD,coze
