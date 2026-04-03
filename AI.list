@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 # Add Coze
 DOMAIN-KEYWORD,coze
+# Add WPS AI
+DOMAIN-SUFFIX,wps.cn
